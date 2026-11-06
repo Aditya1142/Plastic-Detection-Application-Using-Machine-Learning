@@ -7,6 +7,16 @@ This project aims to develop a machine learning-based application for detecting 
 
 The  streamlit application utilizes a pre-trained deep learning model to identify and categorize various types of plastic materials.
 
+# Project Details
+
+Project: Plastic Waste Detection
+
+Project Completion Date: June 1, 2024
+
+Category: Machine Learning / Deep Learning
+
+Technology: Python, Deep Learning, Computer Vision
+
 # Features:
 
 -Detect plastic objects in images.
@@ -36,3 +46,7 @@ The  streamlit application utilizes a pre-trained deep learning model to identif
 # Install the required packages using:
 
 pip install -r requirements.txt
+
+# Project Timeline
+
+Jan 1, 2024 – Project completed.
