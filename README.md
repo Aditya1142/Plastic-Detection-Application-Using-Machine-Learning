@@ -11,7 +11,7 @@ The  streamlit application utilizes a pre-trained deep learning model to identif
 
 Project: Plastic Waste Detection
 
-Project Completion Date: June 1, 2024
+Project Completion Date: Jan 1, 2024
 
 Category: Machine Learning / Deep Learning
 
