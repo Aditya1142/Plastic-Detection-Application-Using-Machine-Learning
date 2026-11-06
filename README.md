@@ -13,6 +13,8 @@ Project: Plastic Waste Detection
 
 Project Completion Date: Jan 1, 2024
 
+Project type: Collaborative project.
+
 Category: Machine Learning / Deep Learning
 
 Technology: Python, Deep Learning, Computer Vision
